@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+opencv-python
+pillow
+reportlab
+bcrypt
+requests
